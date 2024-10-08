@@ -11,6 +11,7 @@ dependencies {
     implementation 'com.github.jai-imageio:jai-imageio-jpeg2000:1.4.0'
     implementation 'org.apache.pdfbox:pdfbox:2.0.27'
     implementation 'org.apache.pdfbox:pdfbox-tools:2.0.27'
+    implementation 'org.apache.pdfbox:jbig2-imageio:3.0.4'
     testImplementation 'junit:junit:4.13.2'
 }
 
